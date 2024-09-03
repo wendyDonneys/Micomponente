@@ -1,0 +1,2 @@
+# Micomponente
+ Crear un componente
